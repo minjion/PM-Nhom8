@@ -1,0 +1,178 @@
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.dll.config
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\BUS.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DAL.dll.config
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\bin\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\BUS.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DAL.dll.config
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\bin\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\BUS\obj\Debug\BUS.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\BUS.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\BUS.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\DAL.dll.config
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\bin\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\obj\Debug\BUS.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\DAL.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\DAL.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\DAL.dll.config
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\BUS\obj\Debug\BUS.pdb

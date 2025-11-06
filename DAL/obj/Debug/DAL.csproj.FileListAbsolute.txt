@@ -1,0 +1,135 @@
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+C:\Users\Acer\Downloads\Compressed\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+C:\Users\ACER\Dropbox\My PC (LAPTOP-QOR9FTDI)\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\Hoc Tap\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\Tài liệu\PTPM\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DAL.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\bin\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\Đồ án\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DAL\obj\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\bin\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DAL\obj\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\bin\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\bin\Debug\DAL.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\bin\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\bin\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\obj\Debug\DAL.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\bin\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\bin\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,1555 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|c:\\users\\admin\\source\\repos\\cnpm_nhom-8\\dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_lichsuvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_lichsuvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_sothaisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_sothaisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangluongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangluongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\bangluongsubview\\thaydoibangluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\bangluongsubview\\thaydoibangluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_bangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_bangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\dangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\dangnhap.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangchamcongcanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangchamcongcanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangluongcanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangluongcanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\subview\\baohiemnhanvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\subview\\baohiemnhanvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\hosothuviec.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\hosothuviec.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\themthaisan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\themthaisan.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\themnhanvienform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\themnhanvienform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\trangchu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_bangchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_nhanvienhientai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_nhanvienhientai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dto\\dto_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05D8D98-4175-428F-9EDA-5A2420E1E7BB}|DTO\\DTO.csproj|solutionrelative:dto\\dto_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\subview\\nhanvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\subview\\nhanvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongthuviecview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongthuviecview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_hosothuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_hosothuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\khenthuongkyluatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\khenthuongkyluatview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\phongbansubvew\\bophanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\phongbansubvew\\bophanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\subview\\qlthuviecthoiviecview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\subview\\qlthuviecthoiviecview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaonhansuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaonhansuview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\qlbaocaothongkeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\qlbaocaothongkeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\qlbaocaothongkeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\qlbaocaothongkeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaothongkeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaothongkeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\qlhethongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\qlhethongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\thongtincanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\thongtincanhanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\chamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\chamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\subview\\qlthuviecthoiviecview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\subview\\qlthuviecthoiviecview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\hethongsubview\\lichsuchinhsuaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\hethongsubview\\lichsuchinhsuaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\phongbansubvew\\phongbanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\phongbansubvew\\phongbanview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\qlchamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\qlchamcongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\themnhanvienform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\themnhanvienform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\viewmodel\\qlnhanvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\viewmodel\\qlnhanvienviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\hosothuviec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\hosothuviec.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangtinhluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangtinhluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongthuviecview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\bangchamcongthuviecview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\subview\\nhanvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\subview\\nhanvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_bangchamcongthuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_bangchamcongthuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_bangchamcongthuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_bangchamcongthuviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_bangtinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangchamcongcanhanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\bangchamcongcanhanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_thaydoibangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_thaydoibangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_thaydoibangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_thaydoibangluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_nvthoiviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_nvthoiviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_sothaisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_sothaisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_sobh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_sobh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_lichsuvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_lichsuvangmat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_lschinhsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_lschinhsua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\thembaohiem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\thembaohiem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\bangluongsubview\\thaydoibangluongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\bangluongsubview\\thaydoibangluongview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\quenmk.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\quenmk.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_thamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\chamcongthuviec.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\chamcongthuviec.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\tracuuthongtinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\tracuuthongtinview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\hethongsubview\\thamsoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\hethongsubview\\thamsoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\tracuuthongtinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\tracuuthongtinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\hethongsubview\\taikhoanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\hethongsubview\\taikhoanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\phongbansubvew\\phongbanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\phongbansubvew\\phongbanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\phongbansubvew\\bophanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\phongbansubvew\\bophanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\chamcongsubview\\khenthuongkyluatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\chamcongsubview\\khenthuongkyluatview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\bangluongsubview\\bangluongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\thembaohiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\thembaohiem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\windowview\\themthaisan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\windowview\\themthaisan.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\hethongsubview\\thamsoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\hethongsubview\\thamsoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaonhansuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\baocaothongkesubview\\baocaonhansuview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_lichsuchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\dal\\dal_loainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28E23D24-D5A6-4F86-ACAA-204A99D7FDE8}|DAL\\DAL.csproj|solutionrelative:dal\\dal_loainhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\bus\\bus_sobh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA35F663-80EF-414D-A961-D7736204F5AB}|BUS\\BUS.csproj|solutionrelative:bus\\bus_sobh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\messagebox\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\messagebox\\messageboxcustom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\messagebox\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\messagebox\\messageboxcustom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\thongtincanhanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\thongtincanhanview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\chamcongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\mvvm\\view\\nhanvien_thongtincanhansubview\\chamcongview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\quanlynhanvien\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79452902-BECD-43B1-BE1F-C320C45E59BC}|QuanLyNhanVien\\QuanLyNhanVien.csproj|solutionrelative:quanlynhanvien\\trangchu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO_LICHSUVANGMAT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_LICHSUVANGMAT.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_LICHSUVANGMAT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_LICHSUVANGMAT.cs",
+              "RelativeToolTip": "DTO\\DTO_LICHSUVANGMAT.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:21:23.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThayDoiBangLuongView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwHwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO_SOTHAISAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_SOTHAISAN.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_SOTHAISAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_SOTHAISAN.cs",
+              "RelativeToolTip": "DTO\\DTO_SOTHAISAN.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:59:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL_TAIKHOAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_TAIKHOAN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_TAIKHOAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_TAIKHOAN.cs",
+              "RelativeToolTip": "DAL\\DAL_TAIKHOAN.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTO_BANGTINHLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_BANGTINHLUONG.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_BANGTINHLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_BANGTINHLUONG.cs",
+              "RelativeToolTip": "DTO\\DTO_BANGTINHLUONG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:21:36.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_BANGCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_BANGCHAMCONG.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_BANGCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_BANGCHAMCONG.cs",
+              "RelativeToolTip": "DTO\\DTO_BANGCHAMCONG.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBkAAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:32:17.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KetNoi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\KetNoi.cs",
+              "RelativeDocumentMoniker": "DAL\\KetNoi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\KetNoi.cs",
+              "RelativeToolTip": "DAL\\KetNoi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTO_THAMSO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_THAMSO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_THAMSO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_THAMSO.cs",
+              "RelativeToolTip": "DTO\\DTO_THAMSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:21:29.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_KYLUAT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_KYLUAT.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_KYLUAT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_KYLUAT.cs",
+              "RelativeToolTip": "DTO\\DTO_KYLUAT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:21:33.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL_BANGLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGLUONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BANGLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGLUONG.cs",
+              "RelativeToolTip": "DAL\\DAL_BANGLUONG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTO_NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_NHANVIEN.cs",
+              "RelativeToolTip": "DTO\\DTO_NHANVIEN.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAApwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BangChamCongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\DangNhap.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\DangNhap.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\DangNhap.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\DangNhap.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T17:50:30.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BangLuongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BangChamCongCaNhanView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BangLuongCaNhanView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangLuongCaNhanView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangLuongCaNhanView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangLuongCaNhanView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangLuongCaNhanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BUS_BANGCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGCHAMCONG.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_BANGCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGCHAMCONG.cs",
+              "RelativeToolTip": "BUS\\BUS_BANGCHAMCONG.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaoHiemNhanVienView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\BaoHiemNhanVienView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\SubView\\BaoHiemNhanVienView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\BaoHiemNhanVienView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\SubView\\BaoHiemNhanVienView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HoSoThuViec.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAIwIoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BangChamCongThuViecView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NhanVienView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "QLNhanVienViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\ViewModel\\QLNhanVienViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\ViewModel\\QLNhanVienViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\ViewModel\\QLNhanVienViewModel.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\ViewModel\\QLNhanVienViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARWSURBVEhL7ZTPbxNXEMe/b3edjb22k5DY1CWpiTFSkyAhItpDAhHtoUj0h3KhKf8Al0ocw6UIekCqhAScc2ylCjUKVEJqpVBK4ooSDlEKiaHBsY1T14m93sRb79p\u002B3vf29WS3cOJWVeJzmsPMfDXfN2\u002BA1/zXkFZwUVyUTuCEpCd1afbJLJLJZDvJ\u002B6ZXxHpi7uynsxwAhBDy8vKyNIMZzGRmXHFauACUS7OXyEJowV1cWHTxJVwAkFpNTpdO\u002B6QNKWLsGHFhiHhHR0e82dGM\u002B/3\u002BeE\u002B9Z7/aUHtbudVqdU\u002BapKPN9eb\u002BQ6lDfQA8ZsMc4D5\u002BQH2iRoYx7GvlKq2A2nSUUvoZATkuFAHIAHEImMsgK3KBcfYjgOsAwAQ7A44PVVkFUchPZsOcY5RdVaC8RUCWHMW5ASCBlkWrudUPHhUfTWbKmfeKVnGw3qyj19cLVVGhSAoIIZuyJM\u002BdGz93lQl25vaT25NLuaVDye0k8mY\u002BFdJCq8cPHP/4afFpd76S37Sa1gIh5NbGhY15CQDW9fXD\u002BUr\u002B3e3qdpRx5hkJjzjDbww/PBw5fG8oPHQ32hO9H/FHNiRJkhlnQYc5msOdTkc4nQJC44IHa81aJ3OZ6grXK4TQhCu8bYtWCis9Zt3sZZx5wv5w5ejA0RQEvlE9qk5dyqy6VaecbmmaZtWatUR0T3SkZJeiuq0To2Zk4uF4YiI2MUY5DZh1U7eb9prsyuv/CORXoHVoCGthO6JFno72j84BuO33\u002B8uEEN56JyEECfWEHoxg5JRu643sbhbpcnpz\u002Bv3pBxFfxE4Wk2KzslnWLX392cizFFpblDNzoC6FR/FUmGC/BAKBa4FAoPhy89a2bP\u002B13b1T31Fsanu4y7tvPr45kC6nO6qNKmmypo9IpC\u002BWjPW2J3BdF0IIEBAoSnuxXkYxG2Y/o\u002BzqfGr\u002BnUQ60Zc1sqTm1D66sXxj/N6ze/0WtRTbsY9wwT2yRw4AuC4BwF5tLxRJQaVRQcbIvNy4hRtUgxUIfD/YPbg2FB6y9nXtsxRZSfZ39d86NXSqcjB0kHd1duUlIi0RQpbRmmB0YBRVWoVFLW92N3tgem76w7HYGIJqEJRSmMyszfw6s3V27GwaHHdivbFAyS4VC2aBFMzCb2P7x\u002B6PD47vKVaLoZJVWq80Kj93Sp1rbYEj\u002B47spo20kTWywYbTGKWcaiWrhHqzDiYY6k69SClNEEJ\u002BB/CnburzOSO3pqkaITLZuvzJ5T/0Xf3rRd\u002Bi5lN8ZcFEbvXC6i5aH\u002B1h5uHJx/nHk\u002Bmd9ImyVY4JIdAX6INX8UKRFEiSlJOJ/N35k\u002Be/eMG0V6B97O4m707odf3Mc\u002BP5RGIjgS1rCwAQ8ocQCUYK4UD4hyuTV679u/hVaB87VVJXFKJ8xcGniEOmZEme4oxPCUdMua77Oa3Rb18sfTXaAnfevmMbwij4uT/FCU9VOiqpmr\u002BWkomcangbz48px8ovlr7m/8Lf2k4/JMnpIrgAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-20T02:25:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BaoCaoNhanSuView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "QLBaoCaoThongKeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThemThaiSan.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThemNhanVienForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrangChu.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\TrangChu.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\TrangChu.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\TrangChu.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\TrangChu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DAL_BANGCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGCHAMCONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BANGCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGCHAMCONG.cs",
+              "RelativeToolTip": "DAL\\DAL_BANGCHAMCONG.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAH8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DAL_LICHSUCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LICHSUCHAMCONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_LICHSUCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LICHSUCHAMCONG.cs",
+              "RelativeToolTip": "DAL\\DAL_LICHSUCHAMCONG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:31:29.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\HomeView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HomeView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "QLBaoCaoThongKeView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\QLBaoCaoThongKeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DTO_NHANVIENHIENTAI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_NHANVIENHIENTAI.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_NHANVIENHIENTAI.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_NHANVIENHIENTAI.cs",
+              "RelativeToolTip": "DTO\\DTO_NHANVIENHIENTAI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:00:45.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DTO_LICHSUCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_LICHSUCHAMCONG.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_LICHSUCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DTO\\DTO_LICHSUCHAMCONG.cs",
+              "RelativeToolTip": "DTO\\DTO_LICHSUCHAMCONG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:31:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaoCaoThongKeView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoThongKeView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoThongKeView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoThongKeView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoThongKeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BangChamCongView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DAL_HOSOTHUVIEC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_HOSOTHUVIEC.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_HOSOTHUVIEC.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_HOSOTHUVIEC.cs",
+              "RelativeToolTip": "DAL\\DAL_HOSOTHUVIEC.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAewEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ThongTinCaNhanView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "QLHeThongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLHeThongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\QLHeThongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLHeThongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\QLHeThongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ChamCongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\App.config",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\App.config",
+              "RelativeToolTip": "QuanLyNhanVien\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-20T02:25:23.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BoPhanView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "QLThuViecThoiViecView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KhenThuongKyLuatView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DAL_BOPHAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BOPHAN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BOPHAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BOPHAN.cs",
+              "RelativeToolTip": "DAL\\DAL_BOPHAN.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAArwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QLThuViecThoiViecView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\SubView\\QLThuViecThoiViecView.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAArwDgAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "QLChamCongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLChamCongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\QLChamCongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\QLChamCongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\QLChamCongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BUS_SOBH.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_SOBH.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_SOBH.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_SOBH.cs",
+              "RelativeToolTip": "BUS\\BUS_SOBH.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "BUS_LICHSUCHAMCONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_LICHSUCHAMCONG.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_LICHSUCHAMCONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_LICHSUCHAMCONG.cs",
+              "RelativeToolTip": "BUS\\BUS_LICHSUCHAMCONG.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "MessageBoxCustom.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHYAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PhongBanView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ThemNhanVienForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemNhanVienForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LichSuChinhSuaView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\LichSuChinhSuaView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\LichSuChinhSuaView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\LichSuChinhSuaView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\LichSuChinhSuaView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "KhenThuongKyLuatView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\KhenThuongKyLuatView.xaml.cs",
+              "ViewState": "AQIAABEBAAAAAAAAAAAAwB4BAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BangLuongView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangLuongView.xaml.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAwKUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ThemBaoHiem.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ThemThaiSan.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemThaiSan.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ThamSoView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HoSoThuViec.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\HoSoThuViec.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BUS_NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_NHANVIEN.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_NHANVIEN.cs",
+              "RelativeToolTip": "BUS\\BUS_NHANVIEN.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "NhanVienView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\SubView\\NhanVienView.xaml.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAADgv+wAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BangTinhLuongView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangTinhLuongView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangTinhLuongView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangTinhLuongView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\BangTinhLuongView.xaml.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAADgv4MAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BangChamCongThuViecView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\ChamCongSubView\\BangChamCongThuViecView.xaml.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAADgv3cAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DAL_BANGCHAMCONGTHUVIEC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGCHAMCONGTHUVIEC.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BANGCHAMCONGTHUVIEC.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGCHAMCONGTHUVIEC.cs",
+              "RelativeToolTip": "DAL\\DAL_BANGCHAMCONGTHUVIEC.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BUS_BANGCHAMCONGTHUVIEC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGCHAMCONGTHUVIEC.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_BANGCHAMCONGTHUVIEC.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGCHAMCONGTHUVIEC.cs",
+              "RelativeToolTip": "BUS\\BUS_BANGCHAMCONGTHUVIEC.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BUS_BANGTINHLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGTINHLUONG.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_BANGTINHLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_BANGTINHLUONG.cs",
+              "RelativeToolTip": "BUS\\BUS_BANGTINHLUONG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DAL_BANGTINHLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGTINHLUONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_BANGTINHLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_BANGTINHLUONG.cs",
+              "RelativeToolTip": "DAL\\DAL_BANGTINHLUONG.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBQAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BangChamCongCaNhanView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\BangChamCongCaNhanView.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAvwCkAAAA/AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DAL_NVTHOIVIEC.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_NVTHOIVIEC.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_NVTHOIVIEC.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_NVTHOIVIEC.cs",
+              "RelativeToolTip": "DAL\\DAL_NVTHOIVIEC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DAL_SOTHAISAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_SOTHAISAN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_SOTHAISAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_SOTHAISAN.cs",
+              "RelativeToolTip": "DAL\\DAL_SOTHAISAN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAADrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DAL_SOBH.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_SOBH.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_SOBH.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_SOBH.cs",
+              "RelativeToolTip": "DAL\\DAL_SOBH.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DAL_THAYDOIBANGLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_THAYDOIBANGLUONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_THAYDOIBANGLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_THAYDOIBANGLUONG.cs",
+              "RelativeToolTip": "DAL\\DAL_THAYDOIBANGLUONG.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv2QAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BUS_THAYDOIBANGLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_THAYDOIBANGLUONG.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_THAYDOIBANGLUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_THAYDOIBANGLUONG.cs",
+              "RelativeToolTip": "BUS\\BUS_THAYDOIBANGLUONG.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DAL_LICHSUVANGMAT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LICHSUVANGMAT.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_LICHSUVANGMAT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LICHSUVANGMAT.cs",
+              "RelativeToolTip": "DAL\\DAL_LICHSUVANGMAT.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DAL_PHONGBAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_PHONGBAN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_PHONGBAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_PHONGBAN.cs",
+              "RelativeToolTip": "DAL\\DAL_PHONGBAN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DAL_LSCHINHSUA.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LSCHINHSUA.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_LSCHINHSUA.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LSCHINHSUA.cs",
+              "RelativeToolTip": "DAL\\DAL_LSCHINHSUA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ThemBaoHiem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ThemBaoHiem.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ThayDoiBangLuongView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BangLuongSubView\\ThayDoiBangLuongView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BUS_TAIKHOAN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_TAIKHOAN.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_TAIKHOAN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\BUS\\BUS_TAIKHOAN.cs",
+              "RelativeToolTip": "BUS\\BUS_TAIKHOAN.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "QuenMK.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\QuenMK.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\QuenMK.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\QuenMK.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\QuenMK.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAkAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DAL_THAMSO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_THAMSO.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_THAMSO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_THAMSO.cs",
+              "RelativeToolTip": "DAL\\DAL_THAMSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DAL_KHENTHUONG.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_KHENTHUONG.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KHENTHUONG.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_KHENTHUONG.cs",
+              "RelativeToolTip": "DAL\\DAL_KHENTHUONG.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DAL_KYLUAT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_KYLUAT.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_KYLUAT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_KYLUAT.cs",
+              "RelativeToolTip": "DAL\\DAL_KYLUAT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChamCongThuViec.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ChamCongThuViec.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\WindowView\\ChamCongThuViec.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\WindowView\\ChamCongThuViec.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\WindowView\\ChamCongThuViec.xaml.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwIYAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TraCuuThongTinView.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ThamSoView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\ThamSoView.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAwFIAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TraCuuThongTinView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\TraCuuThongTinView.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwCkAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "TaiKhoanView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\TaiKhoanView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\TaiKhoanView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\TaiKhoanView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\HeThongSubView\\TaiKhoanView.xaml.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv4MAAABbAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PhongBanView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\PhongBanView.xaml.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAQwKQAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "BoPhanView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\PhongBanSubVew\\BoPhanView.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAQwGAAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "DangNhap.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\DangNhap.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\DangNhap.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\DangNhap.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\DangNhap.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwEgAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BaoCaoNhanSuView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\BaoCaoThongKeSubView\\BaoCaoNhanSuView.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDcAAABMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MessageBoxCustom.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml",
+              "RelativeToolTip": "QuanLyNhanVien\\MessageBox\\MessageBoxCustom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T02:25:15.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ThongTinCaNhanView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ThongTinCaNhanView.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwFIAAABGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "DAL_LOAINHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LOAINHANVIEN.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_LOAINHANVIEN.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\DAL\\DAL_LOAINHANVIEN.cs",
+              "RelativeToolTip": "DAL\\DAL_LOAINHANVIEN.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:25:15.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ChamCongView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\MVVM\\View\\NhanVien_ThongTinCaNhanSubView\\ChamCongView.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwIAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "TrangChu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\TrangChu.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien\\TrangChu.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CNPM_Nhom-8\\QuanLyNhanVien\\TrangChu.xaml.cs",
+              "RelativeToolTip": "QuanLyNhanVien\\TrangChu.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC8AAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAM7SURBVEhL7ZXPa9tmGMe/1iu9lmTFlrz4V1yraVO52IsLWXbIpSGBMDbGdtqhZRvskEv\u002Bgh52Cjv0vMMugUKgMLZ7oWGBLMkSGC3FlGTz4hinc5eOzTGyUP1TsrRDZ2N76dpAe\u002BsH3sOj5/vo\u002B76vHh550MdXd4rnGbt9nWfJzYshASzxfMkS5tsPpmKP\u002BnVngekPLig8xgJe\u002BLwEG7kqso/M957ojY/vPvzjcr/uLHjw6d0Pu0E67gtPjftnQxL3xU95AxMhXk/FvPcmAu2N9uMHv6ytrfUKWZaFoihIJpPO7OxsrdFoZNfX12vLy8tOTwTAg89\u002B\u002BKYbBERmJBHktYifzjx8/BTJqICZcfHv6aj9O1stlHd2dnqFtm2DEIJYLGZPT0\u002BXeZ6/JQhCvl6vG/Pz83ZXR3Dl86sAWgBaAiVMaIQNyiI7XjYtRPwUb48JPm2UxmXBozEMo4XDYS0cDmuUUs2yLK3dbl9iWTYhiqJDCNF5njfi8Xhra2vLBQBPb0sA7jx4cr7ZtK4bzc7N7\u002B\u002BVMTPhx1VtBJdCFCLnwrZ7G0Mul8Pu7i4ODg4gyzLm5ubg9/u/9vl83ymKsj85OfkUwx8592cTJb0Fs\u002BXgk3dDWEgHcHGUg5e46HQ6/VIAgOs\u002Be24YBjY3N1Eqla7VarXFVqv1TlczYJBSgORbDi6PAlOqgLEAAc\u002B6ABy4rtsv7eG6z05WrVZRKBRGs9lsaHt729fNDxg09V/RLhfR0UuQqQWeOPC4LlxnoDEAAJIkIZFIIJ1OI5VKIZlMwnEccnx8zObz\u002Bd57SX9RJpWSK\u002BW/MnXTWBhXz8FLaX96AEIIJElCNBqFqqpQVRWGYUDX9UNd1\u002B/v7\u002B8fYvgEuVwOhUIBR0dHaDQap957F0mSoKoq0ul0bwWDQVBKB5phwAD/9rdt28\u002B987PyH4NXzRuDF/LG4IW8doPBUZHJyCzLZjiOW5BlGaZpolKp4OTk5KVWsVhEtVo9tCzr/t7e3iGG/weLi4vnXNf9iOO4G5FIBPR/ZtFpVCoV1Ov1H5vN5u3V1dUNDBssLS0pAK7Ytv2\u002BaZpwHAfOKZP0eYiiCErpAcMwP6\u002BsrPw2nH8t/AOGD1aMFMZ1mgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-20T02:25:15.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\bin\Debug\DTO.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\bin\Debug\DTO.pdb
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.dll
+C:\Code\Github\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\bin\Debug\DTO.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\bin\Debug\DTO.pdb
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.dll
+C:\Users\Acer\Source\Repos\DANGDINHDUNG\SE100.N11-PM_QUAN_LY_NHAN_VIEN\DTO\obj\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.pdb
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.dll
+C:\Users\dell\Downloads\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.pdb
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.dll
+D:\UIT\Study process\Năm 3\HK V\SE100 - Phương pháp Phát triển phần mềm hướng đối tượng\New folder\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\bin\Debug\DTO.pdb
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.dll
+D:\Tài liệu\PTPM\test\ver3\SE100.N11-PM_QUAN_LY_NHAN_VIEN-main\DTO\obj\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\bin\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\bin\Debug\DTO.pdb
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\obj\Debug\DTO.dll
+C:\Users\nhann\OneDrive\Documents\Android\C#\AAAAAAAAAAAAA\QUANLYNHANVIEN\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\QUANLYNHANVIEN\QUANLYNHANVIEN\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Source\Repos\CNPM_Nhom-8\DTO\obj\Debug\DTO.pdb
