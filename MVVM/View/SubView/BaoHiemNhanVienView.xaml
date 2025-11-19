@@ -13,7 +13,7 @@
             <RowDefinition/>
         </Grid.RowDefinitions>
 
-        <GroupBox Header="Quản lý nhân viên thử việc"
+        <GroupBox Header="Quản lý bảo hiểm"
                       BorderThickness="0"
                       FontSize="17"
                       FontWeight="SemiBold">
@@ -38,27 +38,32 @@
                             Click="btnThemBaoHiem_Click">Thêm bảo hiểm</Button>
                     <Button Grid.Column="1" 
                     FontWeight="Normal"
+                    x:Name="bthXoaBaoHiem"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xóa bảo hiểm</Button>
+                    Width="150" Height="40" Click="bthXoaBaoHiem_Click">Xóa bảo hiểm</Button>
                     <Button Grid.Column="2"
                     FontWeight="Normal"
+                    x:Name="btn_SuaBaoHiem"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Sửa bảo hiểm</Button>
+                    Width="150" Height="40" Click="btn_SuaBaoHiem_Click">Sửa bảo hiểm</Button>
                     <Button Grid.Column="3"
                     FontWeight="Normal"
+                    x:Name="btn_XemChiTiet"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xem chi tiết</Button>
-                    
+                    Width="150" Height="40" Click="btn_XemChiTiet_Click">Xem chi tiết</Button>
+
                 </Grid>
                 <Grid Grid.Row="1">
-                    <DataGrid Margin="10,10,10,20">
-
-                    </DataGrid>
+                    <DataGrid 
+                        x:Name="dtgBaoHiem" 
+                        ItemsSource="{Binding Path=DefaultView}"
+                        IsReadOnly="True"
+                        Margin="10,0,10,10" FontSize="12"/>
                 </Grid>
             </Grid>
         </GroupBox>
 
-        <GroupBox Header="Quản lý nhân viên thôi việc"
+        <GroupBox Header="Quản lý thai sản"
                   Grid.Row="1"
                       BorderThickness="0"
                       FontSize="17"
@@ -71,35 +76,48 @@
 
                 <Grid>
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
-                        <ColumnDefinition/>
+                        <ColumnDefinition Width="197*"/>
+                        <ColumnDefinition Width="207*"/>
+                        <ColumnDefinition Width="187*"/>
+                        <ColumnDefinition Width="197*"/>
                     </Grid.ColumnDefinitions>
 
                     <Button Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40"
+                    Width="1" Height="1"
                     FontWeight="Normal"
                             x:Name="btnThemThaiSan"
                             Click="btnThemThaiSan_Click">Thêm thai sản</Button>
                     <Button Grid.Column="1" 
                     FontWeight="Normal"
+                    x:Name="btnXoaThaiSan"
+                    Click="btnXoaThaiSan_Click"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xóa thai sản</Button>
+                    Width="1" Height="1">Xóa thai sản</Button>
                     <Button Grid.Column="2"
                     FontWeight="Normal"
+                    x:Name="btnSuaThaiSan"
+                    Click="btnSuaThaiSan_Click"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Sửa thai sản</Button>
+                    Width="1" Height="1" >Sửa thai sản</Button>
                     <Button Grid.Column="3"
                     FontWeight="Normal"
+                    x:Name="btnChiTiet"
+                    Click="btnChiTiet_Click"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xem chi tiết</Button>
-                    
+                    Width="1" Height="1" >Xem chi tiết</Button>
+
                 </Grid>
 
                 <Grid Grid.Row="1">
-                    <DataGrid Margin="10,10,10,20">
-
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="297*"/>
+                        <ColumnDefinition Width="491*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="dsThaiSanDtg"
+                        ItemsSource="{Binding Path=DefaultView}"
+                        IsReadOnly="True"
+                        Margin="10,0,10,10" 
+                        SelectionChanged="dsThaiSanDtg_SelectionChanged" Grid.ColumnSpan="2" FontSize="12">
                     </DataGrid>
                 </Grid>
             </Grid>
