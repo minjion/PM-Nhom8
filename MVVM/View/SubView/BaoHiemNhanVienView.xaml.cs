@@ -3,19 +3,8 @@ using BUS;
 using DTO;
 using System;
 using System.Data;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using QuanLyNhanVien.MessageBox;
 
 namespace QuanLyNhanVien.MVVM.View.SubView
@@ -40,98 +29,101 @@ namespace QuanLyNhanVien.MVVM.View.SubView
             DataGridLoad();
         }
 
-        private void dsThaiSanDtg_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
-        }
         public void DataGridLoad()
         {
-            dsThaiSanDtg.DataContext = busSoThaiSan.getSoThaiSan();
-            dtgBaoHiem.DataContext = busSoBH.getSoBH();
+            dsThaiSanDtg.ItemsSource = busSoThaiSan.getSoThaiSan().DefaultView;
+            dtgBaoHiem.ItemsSource = busSoBH.getSoBH().DefaultView;
+        }
+
+        private bool TryGetSelectedRow(DataGrid grid, string warningMessage, out DataRowView row)
+        {
+            row = grid.SelectedItem as DataRowView;
+            if (row == null)
+            {
+                _ = new MessageBoxCustom(warningMessage, MessageType.Warning, MessageButtons.Ok).ShowDialog();
+                return false;
+            }
+
+            return true;
         }
 
         private void btnXoaThaiSan_Click(object sender, RoutedEventArgs e)
         {
-            if (dsThaiSanDtg.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dsThaiSanDtg, "Vui lòng chọn thai sản cần xóa!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn thai sản cần xóa!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
-                
-            DataRowView row = dsThaiSanDtg.SelectedItem as DataRowView;
-            int maThaiSan = int.Parse(row[0].ToString());
 
+            int maThaiSan = int.Parse(row[0].ToString());
             busSoThaiSan.XoaSoThaiSan(maThaiSan);
             DataGridLoad();
-            bool? Result = new MessageBoxCustom("Xóa thai sản thành công!", MessageType.Success, MessageButtons.Ok).ShowDialog();
-
+            _ = new MessageBoxCustom("Xóa thai sản thành công!", MessageType.Success, MessageButtons.Ok).ShowDialog();
         }
 
         private void btnSuaThaiSan_Click(object sender, RoutedEventArgs e)
         {
-            if (dsThaiSanDtg.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dsThaiSanDtg, "Vui lòng chọn thai sản cần sửa!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn thai sản cần sửa!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
 
-            DTO_SOTHAISAN suaSoThaiSan = new DTO_SOTHAISAN();
-            DataRowView row = dsThaiSanDtg.SelectedItem as DataRowView;
-            ThemThaiSan themThaiSan = new ThemThaiSan(false);
+            DTO_SOTHAISAN suaSoThaiSan = new DTO_SOTHAISAN
+            {
+                Mats = int.Parse(row[0].ToString()),
+                Manv = int.Parse(row[1].ToString()),
+                Ngayvesom = DateTime.Parse(row[2].ToString()),
+                Ngaynghisinh = DateTime.Parse(row[3].ToString()),
+                Ngaylamtrolai = DateTime.Parse(row[4].ToString()),
+                Trocapcty = double.Parse(row[5].ToString()),
+                Ghichu = row[6].ToString()
+            };
 
-            suaSoThaiSan.Mats = int.Parse(row[0].ToString());
-            suaSoThaiSan.Manv = int.Parse(row[1].ToString());
-            suaSoThaiSan.Ngayvesom = DateTime.Parse(row[2].ToString());
-            suaSoThaiSan.Ngaynghisinh = DateTime.Parse(row[3].ToString());
-            suaSoThaiSan.Ngaylamtrolai = DateTime.Parse(row[4].ToString());
-            suaSoThaiSan.Trocapcty = double.Parse(row[5].ToString());
-            suaSoThaiSan.Ghichu = row[6].ToString();
-
-            themThaiSan.suaThaiSan = suaSoThaiSan;
+            ThemThaiSan themThaiSan = new ThemThaiSan(false)
+            {
+                suaThaiSan = suaSoThaiSan
+            };
             themThaiSan.ShowDialog();
             DataGridLoad();
         }
 
         private void btnChiTiet_Click(object sender, RoutedEventArgs e)
         {
-            if (dsThaiSanDtg.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dsThaiSanDtg, "Vui lòng chọn thai sản cần xem!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn thai sản cần xem!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
 
-            DTO_SOTHAISAN ctSoThaiSan = new DTO_SOTHAISAN();
-            DataRowView row = dsThaiSanDtg.SelectedItem as DataRowView;
-            ChiTietThaiSan ctThaiSan = new ChiTietThaiSan();
-            ctThaiSan.checkAdd = false;
+            DTO_SOTHAISAN ctSoThaiSan = new DTO_SOTHAISAN
+            {
+                Mats = int.Parse(row[0].ToString()),
+                Manv = int.Parse(row[1].ToString()),
+                Ngayvesom = DateTime.Parse(row[2].ToString()),
+                Ngaynghisinh = DateTime.Parse(row[3].ToString()),
+                Ngaylamtrolai = DateTime.Parse(row[4].ToString()),
+                Trocapcty = double.Parse(row[5].ToString()),
+                Ghichu = row[6].ToString()
+            };
 
-            ctSoThaiSan.Mats = int.Parse(row[0].ToString());
-            ctSoThaiSan.Manv = int.Parse(row[1].ToString());
-            ctSoThaiSan.Ngayvesom = DateTime.Parse(row[2].ToString());
-            ctSoThaiSan.Ngaynghisinh = DateTime.Parse(row[3].ToString());
-            ctSoThaiSan.Ngaylamtrolai = DateTime.Parse(row[4].ToString());
-            ctSoThaiSan.Trocapcty = double.Parse(row[5].ToString());
-            ctSoThaiSan.Ghichu = row[6].ToString();
-
-            ctThaiSan.ctThaiSan = ctSoThaiSan;
+            ChiTietThaiSan ctThaiSan = new ChiTietThaiSan
+            {
+                checkAdd = false,
+                ctThaiSan = ctSoThaiSan
+            };
             ctThaiSan.ShowDialog();
             DataGridLoad();
         }
 
         private void bthXoaBaoHiem_Click(object sender, RoutedEventArgs e)
         {
-            if (dtgBaoHiem.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dtgBaoHiem, "Vui lòng chọn bảo hiểm cần xóa!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn bảo hiểm cần xóa!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
 
-            DataRowView row = dtgBaoHiem.SelectedItem as DataRowView;
             int maBaoHiem = int.Parse(row[0].ToString());
-
             busSoBH.XoaSoBH(maBaoHiem);
             DataGridLoad();
-            bool? Result = new MessageBoxCustom("Xóa bảo hiểm thành công!", MessageType.Success, MessageButtons.Ok).ShowDialog();
+            _ = new MessageBoxCustom("Xóa bảo hiểm thành công!", MessageType.Success, MessageButtons.Ok).ShowDialog();
         }
 
         private void btnThemBaoHiem_Click(object sender, RoutedEventArgs e)
@@ -143,47 +135,49 @@ namespace QuanLyNhanVien.MVVM.View.SubView
         }
         private void btn_SuaBaoHiem_Click(object sender, RoutedEventArgs e)
         {
-            if (dtgBaoHiem.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dtgBaoHiem, "Vui lòng chọn bảo hiểm cần sửa!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn bảo hiểm cần sửa!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
 
-            DTO_SOBH suaSoBH = new DTO_SOBH();
-            DataRowView row = dtgBaoHiem.SelectedItem as DataRowView;
-            ThemBaoHiem themBaoHiem = new ThemBaoHiem(false);
+            DTO_SOBH suaSoBH = new DTO_SOBH
+            {
+                Mabh = int.Parse(row[0].ToString()),
+                Manv = int.Parse(row[1].ToString()),
+                Ngaycapso = DateTime.Parse(row[2].ToString()),
+                Noicapso = row[3].ToString(),
+                Ghichu = row[4].ToString()
+            };
 
-            suaSoBH.Mabh = int.Parse(row[0].ToString());
-            suaSoBH.Manv = int.Parse(row[1].ToString());
-            suaSoBH.Ngaycapso = DateTime.Parse(row[2].ToString());
-            suaSoBH.Noicapso = row[3].ToString();
-            suaSoBH.Ghichu = row[4].ToString();
-
-            themBaoHiem.suaBaoHiem = suaSoBH;
+            ThemBaoHiem themBaoHiem = new ThemBaoHiem(false)
+            {
+                suaBaoHiem = suaSoBH
+            };
             themBaoHiem.ShowDialog();
             DataGridLoad();
         }
 
         private void btn_XemChiTiet_Click(object sender, RoutedEventArgs e)
         {
-            if (dtgBaoHiem.SelectedItems.Count == 0)
+            if (!TryGetSelectedRow(dtgBaoHiem, "Vui lòng chọn bảo hiểm cần xem!", out DataRowView row))
             {
-                bool? result = new MessageBoxCustom("Vui lòng chọn bảo hiểm cần xem!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                 return;
             }
 
-            DTO_SOBH ctSoBaoHiem = new DTO_SOBH();
-            DataRowView row = dtgBaoHiem.SelectedItem as DataRowView;
-            ChiTietBaoHiem ctBaoHiem = new ChiTietBaoHiem();
-            ctBaoHiem.checkAdd = false;
+            DTO_SOBH ctSoBaoHiem = new DTO_SOBH
+            {
+                Mabh = int.Parse(row[0].ToString()),
+                Manv = int.Parse(row[1].ToString()),
+                Ngaycapso = DateTime.Parse(row[2].ToString()),
+                Noicapso = row[3].ToString(),
+                Ghichu = row[4].ToString()
+            };
 
-            ctSoBaoHiem.Mabh = int.Parse(row[0].ToString());
-            ctSoBaoHiem.Manv = int.Parse(row[1].ToString());
-            ctSoBaoHiem.Ngaycapso = DateTime.Parse(row[2].ToString());
-            ctSoBaoHiem.Noicapso =row[3].ToString();
-            ctSoBaoHiem.Ghichu = row[4].ToString();
-
-            ctBaoHiem.ctBaoHiem = ctSoBaoHiem;
+            ChiTietBaoHiem ctBaoHiem = new ChiTietBaoHiem
+            {
+                checkAdd = false,
+                ctBaoHiem = ctSoBaoHiem
+            };
             ctBaoHiem.ShowDialog();
             DataGridLoad();
         }

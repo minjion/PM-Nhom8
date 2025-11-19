@@ -51,11 +51,11 @@
                            Text="Ngày dự sinh" TextAlignment="Right" VerticalAlignment="Center"/>
                 
                 <TextBox x:Name="maTSTbx" Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="0" IsEnabled="False" Loaded="maTSTbx_Loaded" />
-                <ComboBox x:Name="maNVCbx" FontSize="17" FontWeight="Normal" Grid.Column="1" Grid.Row="1" ItemsSource="{Binding Path=DefaultView}" />
+                <ComboBox x:Name="maNVCbx" FontSize="17" FontWeight="Normal" Grid.Column="1" Grid.Row="1" />
                 <DatePicker x:Name="ngayVeSomDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="2" Height="30"
-                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" Text="MM/dd/yyyy" IsEnabled="False"/>
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" IsEnabled="False"/>
                 <DatePicker x:Name="ngayNghiSinhDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="3" Height="30" 
-                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" Text="MM/dd/yyyy" SelectedDateChanged="ngayNghiSinhDpk_SelectedDateChanged"/>
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" SelectedDateChanged="ngayNghiSinhDpk_SelectedDateChanged"/>
                 
                 <TextBlock Grid.Row="0" Grid.Column="2" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 
                            Text="Ngày làm TL" TextAlignment="Right" VerticalAlignment="Center"/>
@@ -65,7 +65,7 @@
                            Text="Ghi chú" TextAlignment="Right" VerticalAlignment="Center"/>
 
                 <DatePicker x:Name="ngayLamTLDpk" FontSize="17" FontWeight="Normal" Grid.Column="3" Grid.Row="0"
-                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" Text="MM/dd/yyyy" IsEnabled="False"/>
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" IsEnabled="False"/>
                 <TextBox x:Name="troCapTbx" Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="1" PreviewTextInput="troCapTbx_PreviewTextInput"/>
                 <TextBox x:Name="ghiChuTbx" Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="2"/>
                 

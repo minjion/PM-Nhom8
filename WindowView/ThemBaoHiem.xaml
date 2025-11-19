@@ -50,9 +50,9 @@
 
 
                 <TextBox x:Name="maBHTbx" Style="{StaticResource InputTextBox}" IsEnabled="False"  Grid.Column="1" Grid.Row="0" Loaded="maBHTbx_Loaded"/>
-                <ComboBox x:Name="maNVCbx" FontSize="17" FontWeight="Normal" ItemsSource="{Binding Path=DefaultView}"  Grid.Column="1" Grid.Row="1"/>
+                <ComboBox x:Name="maNVCbx" FontSize="17" FontWeight="Normal" Grid.Column="1" Grid.Row="1"/>
                 <DatePicker x:Name="ngayCapTbx" FontSize="17" FontWeight="Normal" Grid.Column="1" Grid.Row="2"
-                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" Text="MM/dd/yyyy" IsEnabled="False"/>
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy"/>
 
 
                 <TextBlock Grid.Row="0" Grid.Column="2" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 

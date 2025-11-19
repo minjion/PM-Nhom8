@@ -40,26 +40,30 @@ namespace QuanLyNhanVien.WindowView
         }
         public void ComboBoxes_Loaded()
         {
-            foreach (var maNV in busNhanVien.TongHopMaNhanVien())
+            maNVCbx.ItemsSource = busNhanVien.TongHopMaNhanVien();
+            if (checkAdd)
             {
-                maNVCbx.Items.Add(maNV);
+                if (maNVCbx.Items.Count > 0)
+                {
+                    maNVCbx.SelectedIndex = 0;
+                }
+                ngayCapTbx.SelectedDate = DateTime.Now;
             }
-            ngayCapTbx.SelectedDate = DateTime.Now;
         }
 
         private void btnThemSua_Click(object sender, RoutedEventArgs e)
         {
-            try 
+            try
             {
-                if (ngayCapTbx.Text == String.Empty || noiCapTbx.Text == String.Empty)
+                if (maNVCbx.SelectedItem == null || !ngayCapTbx.SelectedDate.HasValue || string.IsNullOrWhiteSpace(noiCapTbx.Text))
                 {
                     bool? Result = new MessageBoxCustom("Vui lòng thêm thông tin đầy đủ!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                     return;
                 }
 
                 DTO_SOBH dtoSoBH = new DTO_SOBH();
-                dtoSoBH.Manv = int.Parse(maNVCbx.SelectedValue.ToString());
-                dtoSoBH.Ngaycapso = DateTime.Parse(ngayCapTbx.Text);
+                dtoSoBH.Manv = int.Parse(maNVCbx.SelectedItem.ToString());
+                dtoSoBH.Ngaycapso = ngayCapTbx.SelectedDate.Value;
                 dtoSoBH.Noicapso = noiCapTbx.Text;
                 dtoSoBH.Ghichu = ghiChuTbx.Text;
 
@@ -89,7 +93,7 @@ namespace QuanLyNhanVien.WindowView
                 return;
             maBHTbx.Text = suaBaoHiem.Mabh.ToString();
             maNVCbx.SelectedItem = suaBaoHiem.Manv.ToString();
-            ngayCapTbx.Text = suaBaoHiem.Ngaycapso.ToString();
+            ngayCapTbx.SelectedDate = suaBaoHiem.Ngaycapso;
             noiCapTbx.Text = suaBaoHiem.Noicapso.ToString();
             ghiChuTbx.Text = suaBaoHiem.Ghichu.ToString();
         }

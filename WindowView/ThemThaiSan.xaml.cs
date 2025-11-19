@@ -45,31 +45,32 @@ namespace QuanLyNhanVien.WindowView
 
         public void ComboBoxes_Loaded()
         {
-            foreach (var maNV in busNhanVien.TongHopMaNhanVienTheoGioiTinh("Nữ"))
-            {
-                maNVCbx.Items.Add(maNV);
-            }
+            var danhSachNhanVien = busNhanVien.TongHopMaNhanVienTheoGioiTinh("Nữ");
+            maNVCbx.ItemsSource = danhSachNhanVien;
 
-            
+            if (checkAdd && danhSachNhanVien.Count > 0)
+            {
+                maNVCbx.SelectedIndex = 0;
+            }
         }
 
         private void btnThem_Click(object sender, RoutedEventArgs e)
         {
             try
             {
-                if (ngayNghiSinhDpk.Text == String.Empty || ngayVeSomDpk.Text == String.Empty || ngayLamTLDpk.Text == String.Empty
-                || troCapTbx.Text == String.Empty)
+                if (maNVCbx.SelectedItem == null || !ngayNghiSinhDpk.SelectedDate.HasValue || !ngayVeSomDpk.SelectedDate.HasValue
+                || !ngayLamTLDpk.SelectedDate.HasValue || string.IsNullOrWhiteSpace(troCapTbx.Text))
 
                 {
                     bool? Result = new MessageBoxCustom("Vui lòng điền đầy đủ thông tin!", MessageType.Warning, MessageButtons.Ok).ShowDialog();
                     return;
                 }
                 DTO_SOTHAISAN dtoSoThaiSan = new DTO_SOTHAISAN();
-                dtoSoThaiSan.Manv = int.Parse(maNVCbx.SelectedValue.ToString());
-                dtoSoThaiSan.Ngaynghisinh = DateTime.Parse(ngayNghiSinhDpk.Text);
-                dtoSoThaiSan.Ngayvesom = DateTime.Parse(ngayVeSomDpk.Text);
-                dtoSoThaiSan.Ngaylamtrolai = DateTime.Parse(ngayLamTLDpk.Text);
-                dtoSoThaiSan.Trocapcty = int.Parse(troCapTbx.Text);
+                dtoSoThaiSan.Manv = int.Parse(maNVCbx.SelectedItem.ToString());
+                dtoSoThaiSan.Ngaynghisinh = ngayNghiSinhDpk.SelectedDate.Value;
+                dtoSoThaiSan.Ngayvesom = ngayVeSomDpk.SelectedDate.Value;
+                dtoSoThaiSan.Ngaylamtrolai = ngayLamTLDpk.SelectedDate.Value;
+                dtoSoThaiSan.Trocapcty = double.Parse(troCapTbx.Text);
                 dtoSoThaiSan.Ghichu = ghiChuTbx.Text;
 
                 if (maTSTbx.Text == string.Empty)
@@ -98,9 +99,9 @@ namespace QuanLyNhanVien.WindowView
             maTSTbx.Text = suaThaiSan.Mats.ToString();
             maNVCbx.SelectedItem = suaThaiSan.Manv.ToString();
 
-            ngayNghiSinhDpk.Text = suaThaiSan.Ngaynghisinh.ToString();
-            ngayVeSomDpk.Text = suaThaiSan.Ngayvesom.ToString();
-            ngayLamTLDpk.Text = suaThaiSan.Ngaylamtrolai.ToString();
+            ngayNghiSinhDpk.SelectedDate = suaThaiSan.Ngaynghisinh;
+            ngayVeSomDpk.SelectedDate = suaThaiSan.Ngayvesom;
+            ngayLamTLDpk.SelectedDate = suaThaiSan.Ngaylamtrolai;
             troCapTbx.Text = suaThaiSan.Trocapcty.ToString();
             ghiChuTbx.Text = suaThaiSan.Ghichu.ToString();
         }
@@ -108,17 +109,21 @@ namespace QuanLyNhanVien.WindowView
         private void ngayNghiSinhDpk_SelectedDateChanged(object sender, SelectionChangedEventArgs e)
         {
             int soThangNghiTruocVaSauSinh = int.Parse(busThamSo.Get_soThangNghiSinh().ToString()) / 2;
-            DTO_NHANVIEN dtoNhanVien = busNhanVien.GetChiTietNhanVienTheoMa(maNVCbx.Text);
+            var maNhanVien = maNVCbx.SelectedItem?.ToString();
+            if (string.IsNullOrWhiteSpace(maNhanVien))
+            {
+                if (checkAdd)
+                {
+                    bool? Result = new MessageBoxCustom("Vui lòng chọn nhân viên.", MessageType.Warning, MessageButtons.Ok).ShowDialog();
+                }
+                ClearYearDpk();
+                return;
+            }
+            DTO_NHANVIEN dtoNhanVien = busNhanVien.GetChiTietNhanVienTheoMa(maNhanVien);
 
             if (checkAdd)
             {
-                if (maNVCbx.Text == "")
-                {
-                    bool? Result = new MessageBoxCustom("Vui lòng chọn nhân viên.", MessageType.Error, MessageButtons.Ok).ShowDialog();
-                    return;
-                }
-
-                if (ngayNghiSinhDpk.Text == "")
+                if (!ngayNghiSinhDpk.SelectedDate.HasValue)
                 {
                     return;
                 }
@@ -130,22 +135,21 @@ namespace QuanLyNhanVien.WindowView
                     return;
                 }
 
-                if (busSoThaiSan.KiemTraTonTai(maNVCbx.Text))
+                if (busSoThaiSan.KiemTraTonTai(maNhanVien))
                 {
-                    if (ngayNghiSinhDpk.SelectedDate < busSoThaiSan.TimNgayLamTroLai(maNVCbx.Text))
+                    if (ngayNghiSinhDpk.SelectedDate < busSoThaiSan.TimNgayLamTroLai(maNhanVien))
                     {
                         bool? Result = new MessageBoxCustom("Nhân viên chưa kết thúc đợt nghỉ sinh trước.", MessageType.Error, MessageButtons.Ok).ShowDialog();
                         ClearYearDpk();
                         return;
                     }
                 }
-                checkAdd = true;
             }
 
             ngayVeSomDpk.SelectedDate = ngayNghiSinhDpk.SelectedDate.Value.Date.AddMonths(-soThangNghiTruocVaSauSinh);
             ngayLamTLDpk.SelectedDate = ngayNghiSinhDpk.SelectedDate.Value.Date.AddMonths(soThangNghiTruocVaSauSinh);
 
-            if (ngayVeSomDpk.SelectedDate.Value.Date.AddMonths(-soThangNghiTruocVaSauSinh) > dtoNhanVien.Ngayhethan)
+            if (dtoNhanVien != null && ngayVeSomDpk.SelectedDate.Value.Date.AddMonths(-soThangNghiTruocVaSauSinh) > dtoNhanVien.Ngayhethan)
             {
                 bool? Result = new MessageBoxCustom("Không thể hưởng nghỉ sinh sau khi nghỉ việc.", MessageType.Error, MessageButtons.Ok).ShowDialog();
 
@@ -160,9 +164,9 @@ namespace QuanLyNhanVien.WindowView
 
         public void ClearYearDpk()
         {
-            ngayVeSomDpk.Text = "";
-            ngayNghiSinhDpk.Text = "";
-            ngayLamTLDpk.Text = "";
+            ngayVeSomDpk.SelectedDate = null;
+            ngayNghiSinhDpk.SelectedDate = null;
+            ngayLamTLDpk.SelectedDate = null;
         }
     }
 }
