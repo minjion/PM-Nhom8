@@ -51,7 +51,16 @@
                            Text="Ngày dự sinh" TextAlignment="Right" VerticalAlignment="Center"/>
                 
                 <TextBox x:Name="maTSTbx" Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="0" IsEnabled="False" Loaded="maTSTbx_Loaded" />
-                <ComboBox x:Name="maNVCbx" FontSize="17" FontWeight="Normal" Grid.Column="1" Grid.Row="1" />
+                <ComboBox x:Name="maNVCbx"
+                          FontSize="17"
+                          FontWeight="Normal"
+                          Grid.Column="1"
+                          Grid.Row="1"
+                          IsEditable="True"
+                          IsReadOnly="True"
+                          IsTextSearchEnabled="True"
+                          DisplayMemberPath="DisplayText"
+                          SelectedValuePath="Ma" />
                 <DatePicker x:Name="ngayVeSomDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="2" Height="30"
                             c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" IsEnabled="False"/>
                 <DatePicker x:Name="ngayNghiSinhDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="3" Height="30" 
@@ -88,7 +97,8 @@
                         Click="btnHuy_Click"
                     Style="{StaticResource WindowButtonTheme}"
                     Width="150" Height="40">Hủy</Button>
-                <Button Grid.Column="3"
+                <Button x:Name="btnThemSua"
+                        Grid.Column="3"
                         Grid.ColumnSpan="2"
                     Style="{StaticResource WindowButtonTheme}"
                     Width="150" Height="40" Click="btnThem_Click">Thêm/Sửa</Button>

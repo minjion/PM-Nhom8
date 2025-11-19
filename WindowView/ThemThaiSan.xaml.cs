@@ -3,6 +3,7 @@ using System.Data;
 using BUS;
 using DTO;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,6 +32,21 @@ namespace QuanLyNhanVien.WindowView
         public DTO_NHANVIEN suaNhanVien;
         public DTO_LSCHINHSUA dtoLSChinhSua = new DTO_LSCHINHSUA();
         public bool checkAdd;
+        private readonly ObservableCollection<NhanVienComboItem> _nhanVienNguon = new ObservableCollection<NhanVienComboItem>();
+
+        private sealed class NhanVienComboItem
+        {
+            public NhanVienComboItem(string ma, string hoTen)
+            {
+                Ma = ma;
+                HoTen = hoTen;
+            }
+
+            public string Ma { get; }
+            public string HoTen { get; }
+            public string DisplayText => string.IsNullOrWhiteSpace(HoTen) ? Ma : $"{Ma} - {HoTen}";
+        }
+
         public ThemThaiSan(bool CheckAdd)
         {
             InitializeComponent();
@@ -45,10 +61,33 @@ namespace QuanLyNhanVien.WindowView
 
         public void ComboBoxes_Loaded()
         {
-            var danhSachNhanVien = busNhanVien.TongHopMaNhanVienTheoGioiTinh("Nữ");
-            maNVCbx.ItemsSource = danhSachNhanVien;
+            _nhanVienNguon.Clear();
+            var danhSachNhanVien = busNhanVien.TongHopMaNhanVienTheoGioiTinh("Nữ") ?? new List<string>();
 
-            if (checkAdd && danhSachNhanVien.Count > 0)
+            if (!danhSachNhanVien.Any())
+            {
+                danhSachNhanVien = busNhanVien.TongHopMaNhanVien() ?? new List<string>();
+            }
+
+            foreach (var maNhanVien in danhSachNhanVien.Distinct())
+            {
+                var tenNhanVien = busNhanVien.TimTenNVTheoMa(maNhanVien) ?? string.Empty;
+                _nhanVienNguon.Add(new NhanVienComboItem(maNhanVien, tenNhanVien));
+            }
+
+            maNVCbx.ItemsSource = _nhanVienNguon;
+
+            var coNhanVien = _nhanVienNguon.Any();
+            maNVCbx.IsEnabled = coNhanVien;
+            btnThemSua.IsEnabled = coNhanVien;
+
+            if (!coNhanVien)
+            {
+                _ = new MessageBoxCustom("Hiện chưa có nhân viên nào để lập chế độ thai sản.", MessageType.Warning, MessageButtons.Ok).ShowDialog();
+                return;
+            }
+
+            if (checkAdd)
             {
                 maNVCbx.SelectedIndex = 0;
             }
@@ -58,7 +97,7 @@ namespace QuanLyNhanVien.WindowView
         {
             try
             {
-                if (maNVCbx.SelectedItem == null || !ngayNghiSinhDpk.SelectedDate.HasValue || !ngayVeSomDpk.SelectedDate.HasValue
+                if (maNVCbx.SelectedValue == null || !ngayNghiSinhDpk.SelectedDate.HasValue || !ngayVeSomDpk.SelectedDate.HasValue
                 || !ngayLamTLDpk.SelectedDate.HasValue || string.IsNullOrWhiteSpace(troCapTbx.Text))
 
                 {
@@ -66,7 +105,7 @@ namespace QuanLyNhanVien.WindowView
                     return;
                 }
                 DTO_SOTHAISAN dtoSoThaiSan = new DTO_SOTHAISAN();
-                dtoSoThaiSan.Manv = int.Parse(maNVCbx.SelectedItem.ToString());
+                dtoSoThaiSan.Manv = int.Parse(maNVCbx.SelectedValue.ToString());
                 dtoSoThaiSan.Ngaynghisinh = ngayNghiSinhDpk.SelectedDate.Value;
                 dtoSoThaiSan.Ngayvesom = ngayVeSomDpk.SelectedDate.Value;
                 dtoSoThaiSan.Ngaylamtrolai = ngayLamTLDpk.SelectedDate.Value;
@@ -97,7 +136,7 @@ namespace QuanLyNhanVien.WindowView
             if (checkAdd)
                 return;
             maTSTbx.Text = suaThaiSan.Mats.ToString();
-            maNVCbx.SelectedItem = suaThaiSan.Manv.ToString();
+            maNVCbx.SelectedValue = suaThaiSan.Manv.ToString();
 
             ngayNghiSinhDpk.SelectedDate = suaThaiSan.Ngaynghisinh;
             ngayVeSomDpk.SelectedDate = suaThaiSan.Ngayvesom;
@@ -109,7 +148,7 @@ namespace QuanLyNhanVien.WindowView
         private void ngayNghiSinhDpk_SelectedDateChanged(object sender, SelectionChangedEventArgs e)
         {
             int soThangNghiTruocVaSauSinh = int.Parse(busThamSo.Get_soThangNghiSinh().ToString()) / 2;
-            var maNhanVien = maNVCbx.SelectedItem?.ToString();
+            var maNhanVien = maNVCbx.SelectedValue?.ToString();
             if (string.IsNullOrWhiteSpace(maNhanVien))
             {
                 if (checkAdd)
