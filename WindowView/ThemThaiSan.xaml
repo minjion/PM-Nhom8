@@ -4,8 +4,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QuanLyNhanVien"
+        xmlns:c="clr-namespace:QuanLyNhanVien.Theme"
         mc:Ignorable="d"
-        Title="DangNhap" Height="300" Width="600"
+        Title="DangNhap" Height="400" Width="600"
         ResizeMode="NoResize"
         WindowStyle="None"
         Background="Transparent" 
@@ -47,12 +48,23 @@
                 <TextBlock Grid.Row="2" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 
                            Text="Ngày về sớm" TextAlignment="Right" VerticalAlignment="Center"/>
                 <TextBlock Grid.Row="3" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 
-                           Text="Ngày nghỉ sinh" TextAlignment="Right" VerticalAlignment="Center"/>
+                           Text="Ngày dự sinh" TextAlignment="Right" VerticalAlignment="Center"/>
                 
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="0" IsEnabled="False" />
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="1" IsEnabled="False" />
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="2"/>
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="3"/>
+                <TextBox x:Name="maTSTbx" Style="{StaticResource InputTextBox}" Grid.Column="1" Grid.Row="0" IsEnabled="False" Loaded="maTSTbx_Loaded" />
+                <ComboBox x:Name="maNVCbx"
+                          FontSize="17"
+                          FontWeight="Normal"
+                          Grid.Column="1"
+                          Grid.Row="1"
+                          IsEditable="True"
+                          IsReadOnly="True"
+                          IsTextSearchEnabled="True"
+                          DisplayMemberPath="DisplayText"
+                          SelectedValuePath="Ma" />
+                <DatePicker x:Name="ngayVeSomDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="2" Height="30"
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" IsEnabled="False"/>
+                <DatePicker x:Name="ngayNghiSinhDpk" FontSize="17" FontWeight="Normal"  Grid.Column="1" Grid.Row="3" Height="30" 
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" SelectedDateChanged="ngayNghiSinhDpk_SelectedDateChanged"/>
                 
                 <TextBlock Grid.Row="0" Grid.Column="2" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 
                            Text="Ngày làm TL" TextAlignment="Right" VerticalAlignment="Center"/>
@@ -60,10 +72,11 @@
                            Text="Trợ cấp cty" TextAlignment="Right" VerticalAlignment="Center"/>
                 <TextBlock Grid.Row="2" Grid.Column="2" Margin="0,0,10,0" FontWeight="Normal" FontSize="14" 
                            Text="Ghi chú" TextAlignment="Right" VerticalAlignment="Center"/>
-                
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="0"/>
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="1"/>
-                <TextBox Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="2"/>
+
+                <DatePicker x:Name="ngayLamTLDpk" FontSize="17" FontWeight="Normal" Grid.Column="3" Grid.Row="0"
+                            c:DatePickerDateFormat.DateFormat="MM/dd/yyyy" IsEnabled="False"/>
+                <TextBox x:Name="troCapTbx" Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="1" PreviewTextInput="troCapTbx_PreviewTextInput"/>
+                <TextBox x:Name="ghiChuTbx" Style="{StaticResource InputTextBox}" Grid.Column="3" Grid.Row="2"/>
                 
             </Grid>
 
@@ -84,10 +97,11 @@
                         Click="btnHuy_Click"
                     Style="{StaticResource WindowButtonTheme}"
                     Width="150" Height="40">Hủy</Button>
-                <Button Grid.Column="3"
+                <Button x:Name="btnThemSua"
+                        Grid.Column="3"
                         Grid.ColumnSpan="2"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Thêm/Sửa</Button>
+                    Width="150" Height="40" Click="btnThem_Click">Thêm/Sửa</Button>
             </Grid>
         </Grid>
     </Border>

@@ -107,6 +107,12 @@
     <Compile Include="WindowView\HoSoThuViec.xaml.cs">
       <DependentUpon>HoSoThuViec.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WindowView\ChiTietBaoHiem.xaml.cs">
+      <DependentUpon>ChiTietBaoHiem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WindowView\ChiTietThaiSan.xaml.cs">
+      <DependentUpon>ChiTietThaiSan.xaml</DependentUpon>
+    </Compile>
     <Compile Include="WindowView\ThemBaoHiem.xaml.cs">
       <DependentUpon>ThemBaoHiem.xaml</DependentUpon>
     </Compile>
@@ -115,6 +121,9 @@
     </Compile>
     <Compile Include="WindowView\ThemThaiSan.xaml.cs">
       <DependentUpon>ThemThaiSan.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox\MessageBoxCustom.xaml.cs">
+      <DependentUpon>MessageBoxCustom.xaml</DependentUpon>
     </Compile>
     <Page Include="DangNhap.xaml">
       <SubType>Designer</SubType>
@@ -319,6 +328,7 @@
     <Compile Include="MVVM\View\TraCuuThongTinView.xaml.cs">
       <DependentUpon>TraCuuThongTinView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Theme\DatePickerCalendar.cs" />
     <Compile Include="Theme\WaterMarkPasswordBox.cs" />
     <Compile Include="TrangChu.xaml.cs">
       <DependentUpon>TrangChu.xaml</DependentUpon>
@@ -336,6 +346,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="WindowView\ChiTietBaoHiem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WindowView\ChiTietThaiSan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="WindowView\ThemBaoHiem.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -345,6 +363,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="WindowView\ThemThaiSan.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MessageBox\MessageBoxCustom.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

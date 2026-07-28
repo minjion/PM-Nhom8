@@ -10,12 +10,13 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition/>
+            <RowDefinition Height="50" />
             <RowDefinition/>
         </Grid.RowDefinitions>
 
         <GroupBox Header="Quản lý nhân viên thử việc"
                       BorderThickness="0"
-                      FontSize="17"
+                      FontSize="17" Grid.RowSpan="2"
                       FontWeight="SemiBold">
             <Grid>
                 <Grid.RowDefinitions>
@@ -31,48 +32,48 @@
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
 
-                    <Button Grid.Column="0" 
+                    <Button Grid.Column="0"
                     FontWeight="Normal"
                     Style="{StaticResource WindowButtonTheme}"
                     Width="150" Height="40"
-                            x:Name="btnThemNhanVien"
-                            Click="btnThemNhanVien_Click">Thêm nhân viên</Button>
-                    <Button Grid.Column="1" 
+                            x:Name="themNhanVienBtn"
+                            Click="themNhanVienBtn_Click">Thêm nhân viên</Button>
+                    <Button x:Name="xoaBtn" Grid.Column="1"
                     FontWeight="Normal"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xóa nhân viên</Button>
+                    Width="150" Height="40" Click="xoaBtn_Click">Xóa nhân viên</Button>
                     <Button Grid.Column="2"
                     FontWeight="Normal"
-                            x:Name="btnSuaNhanVien"
-                            Click="btnSuaNhanVien_Click"
+                            x:Name="suaNhanVienBtn"
+                            Click="suaNhanVienBtn_Click"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Sửa nhân viên</Button>
-                    <Button Grid.Column="3"
+                    Width="1" Height="1">Sửa nhân viên</Button>
+                    <Button x:Name="xemChiTietBtn" Grid.Column="3"
                     FontWeight="Normal"
                     Style="{StaticResource WindowButtonTheme}"
-                    Width="150" Height="40">Xem chi tiết</Button>
-                    
+                    Width="1" Height="1" Click="chiTietBtn_Click">Xem chi tiết</Button>
+
                 </Grid>
                 <Grid Grid.Row="1">
-                    <DataGrid Margin="10,10,10,20">
-
-                    </DataGrid>
+                    <DataGrid x:Name="thuViecDtg" Margin="10,10,10,0"
+                              ItemsSource="{Binding Path=DefaultView}"
+                              IsReadOnly="True" MouseDoubleClick="thuViecDtg_MouseDoubleClick"/>
                 </Grid>
             </Grid>
         </GroupBox>
 
-        <GroupBox Header="Quản lý nhân viên thôi việc"
-                  Grid.Row="1"
+        <GroupBox Header="Nhân viên bị đuổi việc"
+                  Grid.Row="2"
                       BorderThickness="0"
                       FontSize="17"
                       FontWeight="SemiBold">
             <Grid>
-                <Grid.RowDefinitions>
+                <!--<Grid.RowDefinitions>
                     <RowDefinition Height="50"/>
                     <RowDefinition/>
-                </Grid.RowDefinitions>
-                
-                <Grid>
+                </Grid.RowDefinitions>-->
+
+                <!--<Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition/>
                         <ColumnDefinition/>
@@ -80,7 +81,7 @@
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
 
-                    <Button Grid.Column="0" 
+                    <Button Grid.Column="0"
                             Grid.ColumnSpan="2"
                     FontWeight="Normal"
                     Style="{StaticResource WindowButtonTheme}"
@@ -90,16 +91,18 @@
                     FontWeight="Normal"
                     Style="{StaticResource WindowButtonTheme}"
                     Width="200" Height="40">Xem chi tiết</Button>
-                    
-                </Grid>
+
+                </Grid>-->
 
                 <Grid Grid.Row="1">
-                    <DataGrid Margin="10,10,10,20">
-                        
+                    <DataGrid x:Name="nvThoiViecDtg" Margin="10,0,10,20"
+                              ItemsSource="{Binding Path=DefaultView}"
+                              IsReadOnly="True">
+
                     </DataGrid>
                 </Grid>
             </Grid>
-            
+
         </GroupBox>
 
     </Grid>
